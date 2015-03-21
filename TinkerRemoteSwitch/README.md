@@ -5,7 +5,7 @@ My sister-in-law got me the IoT-kit off Tinkerforge so I can control my remote c
 
 As a side effect, it's possible to switch off (or on) all the 433 MHz devices in range ;)
 
-While looping, the current combination is printed to sysout, along with an estimation how long it will take to cover the remaining combinatoric space.
+While looping, the current combination is printed to sysout, along with an estimation of how long it will take to cover the remaining combinatoric space.
 
 ##TODO
 * Support Type B and C switches.
