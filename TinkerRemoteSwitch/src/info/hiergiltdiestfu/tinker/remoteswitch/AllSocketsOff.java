@@ -1,4 +1,4 @@
-package info.hiergiltdiestfu.tinker.funksteckdose;
+package info.hiergiltdiestfu.tinker.remoteswitch;
 
 import com.tinkerforge.BrickletRemoteSwitch;
 import com.tinkerforge.IPConnection;
