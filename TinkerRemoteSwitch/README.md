@@ -7,7 +7,7 @@ As a side effect, it's possible to switch off (or on) all the 433 MHz devices in
 
 While looping, the current combination is printed to sysout, along with an estimation how long it will take to cover the remaining combinatoric space.
 
-#TODO
+##TODO
 * Support Type B and C switches.
 
 March 2015
